@@ -15,7 +15,7 @@ Stock Market Price Prediction is a machine learning project that aims to predict
 
 To run the Stock Market Price Prediction project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/stock-market-prediction.git`
+1. Clone the repository: `git clone https://github.com/06Neel/Stock-Market-Price-Prediction.git`
 2. Install any required dependencies or libraries specified in the project documentation.
 3. Open the main script or notebook file in your preferred development environment.
 4. Ensure that you have the historical stock market data in a compatible format (e.g., CSV, Excel).
